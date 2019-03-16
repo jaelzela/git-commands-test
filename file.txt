@@ -8,3 +8,5 @@ branch B 1
 branch B 2
 changes 5
 changes 6
+branch C 1
+branch C 2
