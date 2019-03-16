@@ -7,3 +7,4 @@ changes 4
 branch B 1
 branch B 2
 changes 5
+changes 6
