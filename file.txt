@@ -5,3 +5,4 @@ branch A 2
 changes 3
 changes 4
 branch B 1
+branch B 2
