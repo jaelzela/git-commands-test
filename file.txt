@@ -16,3 +16,7 @@ branch D 1
 branch D 2
 changes 9
 changes 10
+branch E 1
+branch E 2
+branch E 3
+branch E 4
